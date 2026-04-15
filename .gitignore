@@ -54,7 +54,6 @@ secrets/
 credentials/
 
 # Build output
-dist/
 out/
 
 # Logs
