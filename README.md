@@ -38,6 +38,31 @@ Source: homepage, blog, YouTube, Facebook Ad Library, X/Twitter, Instagram, Face
 - Facebook: page activity signals
 - LinkedIn: (to be connected later — scraper `kfiWbq3boy3dWKbiL` identified, requires LinkedIn cookies setup)
 
+### 🤑 Sales Mode
+Source: Job boards, Glassdoor, BuiltWith, Crunchbase, LinkedIn
+
+**Job Boards (Google Jobs, Indeed, Lever):**
+- Hiring velocity (ratio of sales roles vs. engineering roles)
+- Target personas and territories (e.g., Enterprise focus in EMEA)
+- Sales methodology (MEDDIC, Challenger, or other frameworks mentioned)
+- Sales team composition (headcount distribution across SDR, AE, and CS)
+
+**Glassdoor:**
+- Internal red flags (product-sales gap, implementation delays)
+- Sales culture and turnover signals
+- Negotiation behavior (mentions of discounting or contract flexibility)
+- Talent positioning (how they pitch the company vision to hires)
+
+**Technographic Tools (BuiltWith, Wappalyzer):**
+- Tech stack alignment (tools they commonly replace or integrate with)
+- Customer sophistication signals (complexity of the tech stack they sell into)
+- Premium integration hooks (identifying enterprise-only connectors)
+
+**Corporate & Business (Crunchbase, LinkedIn):**
+- Growth signals (funding rounds, acquisitions, strategic shifts)
+- Leadership turnover (tracking VP/C-level changes in sales/marketing)
+- Geographic expansion (headcount shifts in new regions)
+
 ### 💰 Pricing Mode
 Source: pricing page (public); product-specific pricing page if product name is specified
 - Plan names
